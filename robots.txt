@@ -1,1 +1,1 @@
-Sitemap: http://creditelect.com/sitemap.xml
+Sitemap: https://creditelect.com/sitemap.xml
